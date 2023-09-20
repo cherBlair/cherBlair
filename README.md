@@ -17,6 +17,7 @@
 
 <h3 align='left'>😎 Skills</h3>
 <h4 align='left'>Language & Platform  </h4>
+<!-- 아이콘 참고: https://simpleicons.org/ -->
 <p align='left'>
   <img src="https://img.shields.io/badge/Java-a51000?style=flat-square&logo=coffeescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-EFD81D?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -37,6 +38,7 @@
 <p align='left'>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-782A90?style=flat-square&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
