@@ -1,9 +1,7 @@
-### Hi there 👋
-
 <h1 align='center'>Hi there 👋 I'm Blair.</h1>
 <p align='center'>
 <!--   <a href="" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> -->
-  <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:cher.blair.h@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!--   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> -->
 <!--   <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a> -->
 </p>
