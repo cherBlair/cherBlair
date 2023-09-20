@@ -37,6 +37,7 @@
 <p align='left'>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-782A90?style=flat-square&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
