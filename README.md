@@ -1,6 +1,7 @@
 <h3 align='left'>I HOPE your day is FULL of <b>LOVELY things💕</b></h3> <br/>
 <p align='left'>
 <!--   <a href="" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> -->
+  <a href="https://velog.io/@cher_blair" target="_blank"><img src="https://img.shields.io/badge/B's log-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="mailto:cher.blair.h@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cher.blair.h@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!--   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> -->
 <!--   <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a> -->
@@ -8,7 +9,7 @@
 <p align='left'>
   I'm <b>Java BE developer</b>🚀 <br/>
   Sometimes I develop apps too using Flutter.<br/><br/>
-  I'm an active 🙌, energetic 💪, curious 🤔 person.<br/>
+  I'm an active 🙌,  curious 🤔, energetic 💪 person.<br/>
   I enjoy tennis🎾, swimming 🏊, running 🏃‍♂️ and riding 🚴‍♀️<br/>
   And I want to be a harmonious developer who goes well with everyone🤞
 </p>
