@@ -7,9 +7,9 @@
 <!--   <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a> -->
 </p>
 <p align='left'>
-  I'm <b>Java BE developer</b>🚀 <br/>
+  <b>Java BE developer</b>🚀 <br/>
   Sometimes I develop apps too using Flutter.<br/><br/>
-  I'm an active 🙌,  curious 🤔, energetic 💪 person.<br/>
+  an active 🙌,  curious 🤔, energetic 💪 person.<br/>
   enjoying tennis🎾, swimming 🏊, running 🏃‍♂️ and riding 🚴‍♀️<br/>
   And I want to be a harmonious developer who goes well with everyone🤞
 </p>
